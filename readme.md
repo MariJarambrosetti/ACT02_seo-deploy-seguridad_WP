@@ -5,6 +5,8 @@
 
 - URL del sitio web en producción
 
+https://marijarambrosetti.github.io/ACT02_seo-deploy-seguridad_WP/
+
 - Screenshot de la integración de Google Search Console con el sitio web
 
 ![Integración](img/integracion.jpg)
