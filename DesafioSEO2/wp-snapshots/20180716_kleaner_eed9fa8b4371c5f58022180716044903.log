@@ -1,0 +1,79 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: July 16, 2018 4:49 am
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.40
+WORDPRESS:	4.9.7
+PHP INFO:	7.2.1 | SAPI: apache2handler
+SERVER:		Apache/2.2.31 (Win32) DAV/2 mod_ssl/2.2.31 OpenSSL/1.0.2h mod_fcgid/2.3.9 mod_wsgi/3.4 Python/2.7.6 PHP/7.2.1 mod_perl/2.0.8 Perl/v5.16.3 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (256M default) 
+MEMORY STACK: 24MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:15 | filtered:0 | create:15 
+FILTERED: [] 
+SQL CREATED: 20180716_kleaner_eed9fa8b4371c5f58022180716044903_database.sql 
+SQL FILE SIZE: 731.79KB (749357) 
+SQL FILE TIME: 2018-07-16 04:49:17 
+SQL RUNTIME: 1.36 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  C:/Users/maria/Desktop/ACT02_seo-deploy-seguridad_WP/DesafioSEO2 
+ARCHIVE FILE: 20180716_kleaner_eed9fa8b4371c5f58022180716044903_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	51.98MB 
+STATS:	Dirs 382 | Files 2,999 
+SQL ADDED: 20180716_kleaner_eed9fa8b4371c5f58022180716044903_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 3381
+    [filename] => C:\Users\maria\Desktop\ACT02_seo-deploy-seguridad_WP\DesafioSEO2\wp-snapshots\tmp\20180716_kleaner_eed9fa8b4371c5f58022180716044903_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 19.74MB 
+ARCHIVE RUNTIME: 115.47 sec. 
+MEMORY STACK: 24MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+PACK SIZE:  
+Template parsed with new data 
+Complete [C:/Users/maria/Desktop/ACT02_seo-deploy-seguridad_WP/DesafioSEO2/wp-snapshots/tmp/20180716_kleaner_eed9fa8b4371c5f58022180716044903_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 731.79KB 
+Installer File: 445.9KB 
+Archive File: 19.74MB  
+
+********************************************************************************
+RECORD ID:[2]
+TOTAL PROCESS RUNTIME: 122.78 sec.
+PEAK PHP MEMORY USED: 26MB
+DONE PROCESSING => 20180716_kleaner July 16, 2018 4:51 am
+ 
